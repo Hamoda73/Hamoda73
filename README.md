@@ -1,1 +1,1 @@
-IT engineering student with user-focused approach and passion for innovation and continuous improvement.
+IT engineering student with passion for innovation and continuous improvement.
