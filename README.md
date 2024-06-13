@@ -38,3 +38,7 @@ Feel free to explore my repositories and connect with me for collaboration oppor
 ---
 
 "Technology is best when it brings people together." – Matt Mullenweg
+
+---
+
+![Coder GIF](https://cdn.dribbble.com/users/730703/screenshots/3644365/media/5c44d25b6e2478e1f9d81f00a389cc51.gif)
