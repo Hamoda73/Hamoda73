@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I am a dedicated and passionate first-year Computer Science Engineering student at Esprit School of Engineers. My journey in programming is driven by curiosity, innovation, and a desire to solve real-world problems through technology.
 
+![Code GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 ## 🔭 Projects
 
 ### 🖥️ Web Application for Freelancers
