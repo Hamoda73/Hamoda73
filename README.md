@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a dedicated and passionate first-year Compute
 - **Description**: A comprehensive web application designed to connect freelancers with potential clients, featuring project management tools, a rating system, and secure payment integration.
 
 ### 🖥️ Desktop Application for RDI Center Equipment Tracking
-- **Tech Stack**: JavaFX, SQLite
+- **Tech Stack**: Qt, C++
 - **Description**: A desktop application aimed at efficiently tracking and managing equipment within an RDI center, with features like inventory management, maintenance scheduling, and usage reporting.
 
 ## 💡 Skills and Expertise
