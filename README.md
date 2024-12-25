@@ -34,6 +34,7 @@ Welcome to my GitHub profile! I am a second-year Cloud Computing student at Espr
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat&logo=php)
 - **Web Development**:
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
   ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat&logo=symfony)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
