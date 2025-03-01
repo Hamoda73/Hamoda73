@@ -9,12 +9,13 @@
   
   <!-- Brief Text Description -->
   <pre>
-    💼 Cloud Computing Student at Esprit
-    🖥️ Backend & Cloud Engineer
+    💼 Cloud Engineering Student
+    🖥️ Full-Stack Developer
     📚 Passionate about DevOps & Automation
     🔧 OpenStack, Kubernetes, Prometheus, Grafana, and more
-  </pre>
-  <br><br>
+</pre>
+<br><br>
+
   
   <!-- Small gif for fun -->
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
