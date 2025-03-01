@@ -16,10 +16,7 @@
   </pre>
   
   <br><br>
-  
-  <!-- Profile Gif -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="40" />
-  
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   <br><br><br>
 
   <!-- Social Media Badges -->
