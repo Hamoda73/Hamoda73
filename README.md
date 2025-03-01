@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Poster Image -->
-  <img src="[URL_OF_YOUR_POSTER](https://github.com/Hamoda73/Hamoda73/blob/main/281811810_5143721069081940_1959275491328375259_n.jpg)" width="100%" align="center" />
+  <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
   
   <!-- Typing Animation Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Mohamed+Khelifi%2C+a+Cloud+Computing+student" width="70%" />
