@@ -14,16 +14,13 @@
     📚 Passionate about DevOps & Automation
     🔧 OpenStack, Kubernetes, Prometheus, Grafana, and more
   </pre>
-  
   <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-  <br><br><br>
-
-  <!-- Social Media Badges -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khelifimohamed/)
-  [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Hamoda73)
-  [![Email](https://img.shields.io/badge/Email-md.khelifi%40hotmail.com-blue?style=flat)](mailto:md.khelifi@hotmail.com)
-
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/khelifimohamed)
+[![](https://img.shields.io/badge/youtube-6364ff)](https://youtube.com/hamodeestuff)
+[![](https://img.shields.io/badge/x-ff66ab)](https://x.com/hamodistuff)
 </div>
 
 ---
