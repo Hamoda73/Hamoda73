@@ -14,9 +14,7 @@
     📚 Passionate about DevOps & Automation
     🔧 OpenStack, Kubernetes, Prometheus, Grafana, and more
 </pre>
-<br>
 
-  
   <!-- Small gif for fun -->
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   
