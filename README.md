@@ -13,6 +13,7 @@
     🖥️ Full-Stack Developer
     📚 Passionate about DevOps & Automation
     🔧 OpenStack, Kubernetes, Prometheus, Grafana, and more
+        Hustle. Loyalty. Respect.
 </pre>
 
   <!-- Small gif for fun -->
@@ -29,4 +30,3 @@
 </div>
 
 <!-- Values Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hustle%2C+Loyalty%2C+Respect" width="70%" />
