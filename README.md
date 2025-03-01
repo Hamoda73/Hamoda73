@@ -9,8 +9,13 @@ I am a second-year Cloud Computing student at **Esprit School of Engineers**, pa
 ## Projects
 
 ### OpenStack Cloud Deployment  
-**Tech Stack**: OpenStack, Linux Administration  
-Deploying and managing cloud environments with a focus on automation and scalability.
+**Tech Stack**: OpenStack, Linux Administration, Prometheus, Grafana, Ansible, Kubernetes  
+A comprehensive cloud project involving the deployment, management, and monitoring of scalable cloud infrastructure using OpenStack.  
+Key features:
+- **Cloud Management**: Deployed and configured OpenStack to manage virtual machines and networks.
+- **Automation**: Used **Ansible** for configuration management and deployment automation.
+- **Monitoring**: Integrated **Prometheus** for monitoring cloud resources and **Grafana** for real-time dashboards.
+- **Orchestration**: Utilized **Kubernetes** for container orchestration and scaling cloud applications efficiently.
 
 ### Billing System for Businesses  
 **Tech Stack**: Angular 18, Spring Boot, Postman  
@@ -28,8 +33,8 @@ A desktop application to manage and track equipment within an RDI center.
 
 **Languages**: Java, Python, C++, PHP  
 **Web Development**: Angular, Spring, Symfony, HTML, CSS, JavaScript  
+**Cloud Technologies**: OpenStack, Prometheus, Grafana, Kubernetes, Ansible, RHCSA  
 **Linux Administration**: Shell Scripting, Disk and User Management  
-**Cloud**: OpenStack, RHCSA  
 **Database**: MySQL, PostgreSQL  
 **Version Control**: Git
 
@@ -38,7 +43,7 @@ A desktop application to manage and track equipment within an RDI center.
 - **RHCSA Certified**: Proficiency in Linux system administration.
 
 ## Currently Learning
-- **Cloud Computing**: Advancing my expertise in OpenStack and AWS.
+- **Cloud Computing**: Advancing my expertise in OpenStack, AWS, and containerization technologies like Kubernetes.
 - **Web Development**: Exploring scalable frontend and backend frameworks.
 
 ## Contact
@@ -49,3 +54,9 @@ Feel free to connect with me for collaboration opportunities, internships, or te
 
 ---
 
+## My Values
+- **Hustle**
+- **Loyalty**
+- **Respect**
+
+_"The best way to predict the future is to create it." – Abraham Lincoln_
