@@ -24,7 +24,7 @@
   <!-- Social Links -->
   <div align="center">
     <a href="http://linkedin.com/in/khelifimohamed"><img src="https://img.shields.io/badge/linkedin-0a66c2" alt="LinkedIn" /></a>
-    <a href="https://youtube.com/hamodeestuff"><img src="https://img.shields.io/badge/youtube-6364ff" alt="YouTube" /></a>
+    <a href="https://www.youtube.com/@Hamodeestuff"><img src="https://img.shields.io/badge/youtube-6364ff" alt="YouTube" /></a>
     <a href="https://x.com/hamodistuff"><img src="https://img.shields.io/badge/x-ff66ab" alt="X" /></a>
   </div>
 </div>
