@@ -7,7 +7,7 @@
   <br>
   <!-- Brief Text Description -->
   <pre>
-    💼 Cloud Computing Student
+    💼 Cloud Engineering Student
     🖥️ Full-Stack Developer
     📚 Passionate about DevOps & Automation
     🔧 OpenStack, Azure, Kubernetes and more
