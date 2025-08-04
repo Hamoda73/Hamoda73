@@ -7,10 +7,10 @@
   <br>
   <!-- Brief Text Description -->
   <pre>
-    💼 Cloud Engineering Student
+    💼 Cloud Computing Student
     🖥️ Full-Stack Developer
     📚 Passionate about DevOps & Automation
-    🔧 OpenStack, Kubernetes, Prometheus, Grafana, and more
+    🔧 OpenStack, Azure, Kubernetes and more
         Hustle. Loyalty. Respect.
 </pre>
 
