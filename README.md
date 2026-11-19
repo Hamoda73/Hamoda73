@@ -3,8 +3,10 @@
 
   
   <!-- Typing Animation Text -->
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=37&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there;It's+Hamoda%2C+a+Cloud&DevOps+Engineer+✯)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=37&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there;It's+Hamoda%2C+a+Cloud%26DevOps+Engineer+✯" alt="Typing SVG" />
   <br>
+</p>
   <!-- Brief Text Description -->
   <pre>
     💼 Cloud & DevOps Engineer
